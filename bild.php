@@ -1,5 +1,5 @@
 <?php
-// URL der API - Code sponsored by: https://wetterstation.lima.zone
+// URL der API - Code sponsored by: https://wetter-zerbst.org
 $api_url = "https://deinewebseite/api.php"; // Bitte entsprechend korrigieren
 
 // Daten von der API abrufen
