@@ -1,5 +1,5 @@
 <?php
-// Konfigurationsvariablen - Script sponsored by: https://wetterstation.lima.zone
+// Konfigurationsvariablen - Script sponsored by: https://wetter-zerbst.org
 $outputDir = "/var/www/html/webcam";  // Zielverzeichnis für das Bild
 $imageName = "livecam.jpg";          // Name der lokalen Bilddatei
 $apiScript = "/var/www/html/webcam/api.php"; // Pfad zum API-Skript
