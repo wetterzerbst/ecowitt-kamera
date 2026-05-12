@@ -1,5 +1,5 @@
 <?php
-// API-Parameter - Code sponsored by: https://wetterstation.lima.zone
+// API-Parameter - Code sponsored by: https://wetter-zerbst.org
 $api_url = "https://api.ecowitt.net/api/v3/device/real_time";
 $application_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"; // Ersetze durch deinen Application Key
 $api_key = "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"; // Ersetze durch deinen API-Schlüssel
